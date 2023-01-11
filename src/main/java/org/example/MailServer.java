@@ -7,7 +7,7 @@ public class MailServer {
         messageSent = true;
     }
 
-    public boolean isMessageSent(){
+    public boolean isMessageSent() {
         return messageSent;
     }
 
