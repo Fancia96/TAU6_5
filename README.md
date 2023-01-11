@@ -6,4 +6,4 @@
  
 # Code coverage
 ![coverage](https://github.com/Fancia96/TAU6_5/blob/master/.github/badges/jacoco.svg)
-![branches coverage](.github/badges/branches.svg)
+
